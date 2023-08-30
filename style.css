@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+    background-color: rebeccapurple;
+}
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 21px;
+    border: 5px solid rgb(1, 19, 1);
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+}
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: rgb(125, 127, 128);
+    width: 102px;
+    height: 75px;
+    margin: 5px;
+}
+.calculator{
+    background-color: rgb(187, 255, 0);
+    padding: 18px;
+    border-radius: 53px;
+    border: 2px solid rgb(21, 7, 7);
+    display: inline-block;
+}
+h1{
+    font-size: 28px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
